@@ -9,7 +9,7 @@ require (
 	github.com/cybozu-go/netutil v1.4.1
 	github.com/cybozu-go/transocks v1.1.1
 	github.com/elazarl/goproxy v0.0.0-20170413182129-aacba83f36a5
-	github.com/fardog/secureoperator v2.1.0+incompatible
+	github.com/fardog/secureoperator v4.1.0+incompatible
 	github.com/inconshreveable/go-vhost v0.0.0-20160627193104-06d84117953b
 	github.com/miekg/dns v0.0.0-20170812192144-0598bd43cf51
 	github.com/pkg/errors v0.9.1 // indirect
