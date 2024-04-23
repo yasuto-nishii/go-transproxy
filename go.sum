@@ -4,8 +4,8 @@ github.com/Sirupsen/logrus v1.0.2-0.20170713114250-a3f95b5c4235 h1:m190Z0077f/CD
 github.com/Sirupsen/logrus v1.0.2-0.20170713114250-a3f95b5c4235/go.mod h1:rmk17hk6i8ZSAJkSDa7nOxamrG+SP4P0mm+DAvExv4U=
 github.com/comail/colog v0.0.0-20160416085026-fba8e7b1f46c h1:bzYQ6WpR+t35/y19HUkolcg7SYeWZ15IclC9Z4naGHI=
 github.com/comail/colog v0.0.0-20160416085026-fba8e7b1f46c/go.mod h1:1WwgAwMKQLYG5I2FBhpVx94YTOAuB2W59IZ7REjSE6Y=
-github.com/coreos/go-iptables v0.2.0 h1:RmVRALeVCicZcF3rF05e0ooU9x9TmalN0HcT4hkhG5s=
-github.com/coreos/go-iptables v0.2.0/go.mod h1:/mVI274lEDI2ns62jHCDnCyBF9Iwsmekav8Dbxlm1MU=
+github.com/coreos/go-iptables v0.6.0 h1:is9qnZMPYjLd8LYqmm/qlE+wwEgJIkTYdhV3rfZo4jk=
+github.com/coreos/go-iptables v0.6.0/go.mod h1:Qe8Bv2Xik5FyTXwgIbLAnv2sWSBmvWdFETJConOQ//Q=
 github.com/cybozu-go/log v1.5.0 h1:cjLr+pNga4NL5sj5vnnG00xKmKXSWx0grQQ4LnV1Ris=
 github.com/cybozu-go/log v1.5.0/go.mod h1:zpfovuCgUx+a/ErvQrThoT+/z1RVQoLDOf95wkBeRiw=
 github.com/cybozu-go/netutil v1.2.0/go.mod h1:Wx92iF1dPrtuSzLUMEidtrKTFiDWpLcsYvbQ1lHSmxY=
